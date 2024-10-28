@@ -12,6 +12,8 @@ UI.innerHTML = `<!DOCTYPE html>
   top: 0px;
   left: 0px;
   width: 100vw;
+  height: 5px;
+  text-align: center;
 }
 
 .closebtn {
