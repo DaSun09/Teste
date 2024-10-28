@@ -5,7 +5,7 @@ UI.innerHTML = `<!DOCTYPE html>
 <style>
 .alert {
   padding: 20px;
-  background-color: #000000;
+  background-color: black;
   color: white;
   display: block;
   position: fixed;
